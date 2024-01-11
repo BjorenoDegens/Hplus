@@ -1,0 +1,30 @@
+body{
+    height:100vh;
+    background-color:lightblue;
+}
+.navbar{
+    background-color: #5B4A4A;
+}
+.navbar .navbar-brand img {
+    height: 50px;
+}
+
+.navbar .ml-auto a{
+    color: #4CAEE3;
+    font-size: 20px;
+}
+/*Index page*/
+
+/*Login page*/
+.login main .container .form {
+    background-color: rgba(122, 122, 122, 0.45);
+    padding: 30px;
+    border-radius: 10px;
+}
+
+/*Register page*/
+#age{
+    width: 75px;
+}
+
+
