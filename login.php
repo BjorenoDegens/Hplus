@@ -30,14 +30,14 @@
 </header>
 <main>
     <div class="container pt-5">
-        <form class="form" method="post" action="">
+        <form class="form" method="post" action="controller/loginController.php">
             <div class="form-group">
                 <label for="username">Username:</label>
-                <input type="text" class="form-control" id="username" name="username" required>
+                <input type="text" class="form-control" id="naam" name="naam" required>
             </div>
             <div class="form-group pt-2">
                 <label for="password">Password:</label>
-                <input type="password" class="form-control" id="password" name="password" required>
+                <input type="password" class="form-control" id="wachtwoord" name="wachtwoord" required>
             </div>
             <button type="submit" class="btn btn-primary pt-2" name="submit">Login</button>
 
