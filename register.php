@@ -30,18 +30,18 @@
 </header>
 <main>
     <div class="container pt-5">
-        <form class="form" method="post" action="">
+        <form class="form" method="post" action="controller/registerController.php">
             <div class="form-group">
                 <label for="username">Naam:</label>
-                <input type="text" class="form-control" id="username" name="username" required>
+                <input type="text" class="form-control" id="username" name="naam" required>
             </div>
             <div class="form-group">
                 <label for="password">Wachtwoord:</label>
-                <input type="password" class="form-control" id="password" name="password" required>
+                <input type="password" class="form-control" id="password" name="wachtwoord" required>
             </div>
             <div class="form-group">
                 <label for="age">Age:</label>
-                <input type="number" class="form-control" id="age" name="age" required min="0">
+                <input type="number" class="form-control" id="age" name="leeftijd" required min="0">
             </div>
             <div class="form-group">
                 <label for="Email">Email:</label>
