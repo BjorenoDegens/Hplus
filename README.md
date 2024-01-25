@@ -27,6 +27,3 @@ Leon
 Project Link: [https://github.com/BjorenoDegens/Hplus]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-Made By : ,  & 
