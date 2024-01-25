@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/BjorenoDegens/cybercell">
-    <img src="img/Hplus_logo.png" alt="Logo" width="80" height="80">
+    <img src="img/hplus.PNG" alt="Logo" width="80" height="80">
   </a>
 <h3 align="center">CYBERCELL WEBSITE</h3>
   <p align="center">
