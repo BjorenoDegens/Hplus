@@ -17,7 +17,7 @@ if (isset($_POST['submit'])) {
     if ($stmt->rowCount() > 0) {
 //        Persoon is ingelogt
 //        if ()
-        header("Location:../register.php");
+        header("Location:../user/user_page.php");
         exit();
     } else {
 //        Persoon heeft foute waardes ingevuld
